@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module2"
+
 Sub batchSend()
 
 'variable declarations
