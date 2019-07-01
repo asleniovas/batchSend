@@ -37,7 +37,7 @@ For Each rw In ActiveSheet.Range("A:A")
         .Subject = "Your Subject"
         .body = YourContent
         .display
-        .Attachments.Add ("C:\Users\asleniovas\Desktop\test.txt")
+        '.Attachments.Add ("C:\Users\asleniovas\Desktop\test.txt")
         
         'you can use .Send instead of .display straight away if you're brave
         
