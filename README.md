@@ -5,6 +5,6 @@ Simple VBA script to send emails based on what information is given in your acti
 
 Open `TestBook.xlsm` navigate to the `Developer` tab, select `Macros` in the top left corner and click `Run`. Remember to have Outlook on your PC.
 
-This is the first program I ever wrote a couple of years ago. I know there are millions of tools for sending out batches of emails and this is nothing special, however I found it very useful when I worked in sales and had to send out a ton of personalised advertising emails to my clients.
+This is the first program I ever wrote a couple of years ago. I know there are millions of tools for sending out batches of emails and this is nothing special, however I found it very useful when I worked in sales and had to send out a ton of personalised advertising emails to my clients and reports to my colleagues.
 
 Microsoft have great docs on how to utilise VBA for various automation tasks: https://docs.microsoft.com/en-us/office/vba/api/overview/outlook
