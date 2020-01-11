@@ -1,5 +1,4 @@
-# batchSend
-<b>Excel macro for sending lots of emails</b>
+# batchSend - Excel macro for sending lots of emails
 
 Simple VBA script to send emails based on what information is given in your active spreadsheet. I have included a TestBook with the code module if you want to take it for a quick spin.
 
